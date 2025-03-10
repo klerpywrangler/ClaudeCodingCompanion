@@ -17,8 +17,8 @@ relevant files. This helps in capturing the current state of a project
 for sharing with AI assistants.
 
 Usage:
-    python claudecodingcompanion.py [directory_path] [output_file]
-    python claudecodingcompanion.py --gui
+    python3 claudecodingcompanion.py [directory_path] [output_file]
+    python3 claudecodingcompanion.py --gui
 
     If no arguments are provided, a GUI will be launched.
 
